@@ -1,5 +1,5 @@
 # [react-routes](https://react-routes-app.web.app/quotes)
-Quotes app where you can add your quotes and make a comments. 
+Quotes app where you can add your quotes, make a comments and sort them.
 
 ![Demo](https://github.com/KrystynaMil/react-routes/blob/main/public/Screen.png)
 ## Created with:
